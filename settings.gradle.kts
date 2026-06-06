@@ -1,1 +1,1 @@
-rootProject.name = "ShindoSpotify"
+rootProject.name = "SpotifyAPI"

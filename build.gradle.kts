@@ -4,7 +4,7 @@ plugins {
 
 base {
     group = "com.shindoclient"
-    archivesName = "ShindoSpotify"
+    archivesName = "SpotifyAPI"
     version = "1.0.1"
 }
 
